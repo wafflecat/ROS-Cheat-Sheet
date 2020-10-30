@@ -27,7 +27,7 @@ Run a test program
 ```bash
 ./bin/Protonect
 ```
-You shouldn't need to ```bash sudo ./bin/Protonect```. If you have to to make it work, be
+You shouldn't need to ```sudo ./bin/Protonect```. If you have to to make it work, be
 sure to give the software access to USB devices,
 ```bash
 sudo cp platform/linux/udev/90-kinect2.rules /etc/udev/rules.d/
