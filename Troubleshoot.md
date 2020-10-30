@@ -3,6 +3,7 @@ A repository containing instructions for navigating the quirks of ROS.
 
 ## .bashrc Only Sourcing Last Workspace in .bashrc
 https://www.theconstructsim.com/overlaying-ros-workspaces/
+
 Sanity check with,
 ```bash
 echo $ROS_PACKAGE_PATH
