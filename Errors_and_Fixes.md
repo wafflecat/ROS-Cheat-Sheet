@@ -1,4 +1,4 @@
-# Common Errors in ROS and How to Fix Them
+# Common ROS Errors and How to Fix Them
 Common errors in ROS and how to fix them.
 
 ## .bashrc Only Sourcing Last Workspace in .bashrc
