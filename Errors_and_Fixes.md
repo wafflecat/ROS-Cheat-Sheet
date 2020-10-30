@@ -1,5 +1,5 @@
 # Common Errors and Fixes in ROS
-A repository containing instructions for navigating the quirks of ROS.
+Common errors in ROS and how to fix them.
 
 ## .bashrc Only Sourcing Last Workspace in .bashrc
 https://www.theconstructsim.com/overlaying-ros-workspaces/
