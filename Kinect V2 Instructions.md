@@ -35,4 +35,5 @@ sudo cp platform/linux/udev/90-kinect2.rules /etc/udev/rules.d/
 
 ERROR NOTE: Protonect segmentation fault, freezing error
 Selecting nvidia-340 in Additional Drivers solved the problem
+
 https://github.com/OpenKinect/libfreenect2/issues/923
